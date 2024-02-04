@@ -10,4 +10,6 @@ Data Scientist @
 
 ### Projects
 Name of the Projects
-- 
+- 1
+- 2
+- 3
