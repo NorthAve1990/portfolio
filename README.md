@@ -4,7 +4,7 @@
 
 
 ### Wrok Experience
-Data Scientist @ 
+Lead Data Engineer @ 
 - big impact project 1!
 - big impact project 2!
 
